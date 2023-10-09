@@ -7,8 +7,8 @@
           "id": 1,
           "name": "c1",
           "status": true,
-          "pos_x": "-950",
-          "pos_y": "-45",
+          "pos_x": "-155",
+          "pos_y": "7",
           "icon": "none",
           "connected_points": []
         },
@@ -16,8 +16,8 @@
           "id": 2,
           "name": "c2",
           "status": true,
-          "pos_x": "-950",
-          "pos_y": "-70",
+          "pos_x": "-152",
+          "pos_y": "-45",
           "icon": "none",
           "connected_points": [
             {
@@ -30,8 +30,8 @@
           "id": 3,
           "name": "c3",
           "status": true,
-          "pos_x": "-950",
-          "pos_y": "-150",
+          "pos_x": "-137",
+          "pos_y": "-46",
           "icon": "none",
           "connected_points": [
             {
@@ -48,8 +48,8 @@
           "id": 4,
           "name": "c4",
           "status": true,
-          "pos_x": "1",
-          "pos_y": "1",
+          "pos_x": "-129",
+          "pos_y": "-53",
           "icon": "none",
           "connected_points": [
             {
